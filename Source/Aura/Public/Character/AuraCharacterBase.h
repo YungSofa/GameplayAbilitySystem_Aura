@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "Character/AuraCharacterBase.generated.h"
+#include "AuraCharacterBase.generated.h"
 
 UCLASS(Abstract)
 class AURA_API AAuraCharacterBase : public ACharacter
