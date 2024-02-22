@@ -1,7 +1,7 @@
 // Tutorial GAS
 
 
-#include "AuraCharacterBase.h"
+#include "Character/AuraCharacterBase.generated.h"
 
 AAuraCharacterBase::AAuraCharacterBase()
 {
